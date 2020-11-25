@@ -11,8 +11,12 @@ func testMap() {
 		fmt.Printf("%v\n", found)
 	}
 }
-func TestPear(){
+
+func testList() {
 	for i:=0;i<10;i++ {
 		fmt.Printf("%v\n", i)
 	}
+}
+func TestPear(){
+	
 }
