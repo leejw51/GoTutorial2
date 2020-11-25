@@ -12,5 +12,7 @@ func testMap() {
 	}
 }
 func TestPear(){
-	
+	for i:=0;i<10;i++ {
+		fmt.Printf("%v\n", i)
+	}
 }
