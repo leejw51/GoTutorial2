@@ -1,6 +1,7 @@
 package apple
+
 import "fmt"
 
-func TestApple(){
+func TestApple() {
 	fmt.Println("apple")
 }
